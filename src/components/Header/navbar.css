@@ -1,0 +1,36 @@
+#dashboard{
+    align-items: center;
+    width: 100%;
+}
+
+#links-div {
+    text-align: center;
+    margin-top: 45%;
+    width: 100%;
+  }
+  
+   a{
+    text-decoration: none;
+    color: black;
+   }
+   #btn{
+    width: 70%;
+    border: 6px solid;
+    border-radius: 20px;
+    border-color: blue green yellow;
+   }
+   #lout{
+   width: 30%;
+   border-radius: 45px;
+   border-color: blue
+   }
+   #btn:hover{
+     color: darkgrey;
+   }
+  
+   #nav-top {
+    position: sticky;
+    top: 0;
+    width: 100%;
+  }
+  
